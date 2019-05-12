@@ -1,12 +1,10 @@
-## SmileDetector MachineLearning
+# Smile Detector / Machine Learning
 
-# Import Libraries
+## Import Libraries
 
-# Copy the following libraries into a notepad file and save as; libraries.yml
+## Copy the following libraries into a notepad file and save as; libraries.yml
 
-
-
-name: virtual_platform
+name: libraries
 channels:
 - menpo
 - conda-forge
@@ -110,11 +108,13 @@ dependencies:
   - win-unicode-console==0.5
 
 
-# cd into folder where libraries.yml file exists once your have saved it, and run: 
+## cd into folder where above libraries.yml file exists once you have saved it, and run this code: 
 
-# conda env create -f libraries.yml
+## conda env create -f libraries.yml
 
-Once downloaded, open Anaconda platform from toolbar or programs list and select libraries as platform and then open Spyder or atom etc, whichever you prefer
+Once downloaded all libaries, open Anaconda platform; libaries from toolbar or programs list and then open Spyder or atom etc, whichever you prefer as your ide.
 
-Then run this code in yoru terminal: C:/YOUR FOLDER LOCATION/ python smile.py
+<img src="https://s3-eu-west-1.amazonaws.com/website38/AnacondaCapture.png" width="1250px">
+
+Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
 
