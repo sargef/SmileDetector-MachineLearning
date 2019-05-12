@@ -118,5 +118,5 @@ Once downloaded all libaries, open Anaconda platform; libaries from toolbar or p
 
 Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
 
-<center><embed name="Background" src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" loop="true" hidden="false" width="900px" height="800" autostart="true" ></center>
+<video src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4 width="1250px" loop="true"/>
 
