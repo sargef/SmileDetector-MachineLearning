@@ -14,13 +14,4 @@ Once downloaded all libaries, open Anaconda platform; libaries from toolbar or p
 
 Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
 
-<video src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" width="1250px"/>
-
-<object width="425" height="350">
-  <param name="movie" value="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" />
-  <embed src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4"/>
-</object>
-
-[Smile Detector]("https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4")
-
-[![Smile Detector, click on image](https://s3-eu-west-1.amazonaws.com/website38/SmileCapture.JPG)](https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4)
+[![Smile Detector - Click on Image for Video, click on image](https://s3-eu-west-1.amazonaws.com/website38/SmileCapture.JPG)](https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4)
