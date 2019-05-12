@@ -20,3 +20,5 @@ Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
   <param name="movie" value="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" />
   <embed src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4"/>
 </object>
+
+[Smile Detector]("https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4")
