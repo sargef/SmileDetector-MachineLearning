@@ -22,3 +22,5 @@ Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
 </object>
 
 [Smile Detector]("https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4")
+
+[![Smile Detector, click on image](https://s3-eu-west-1.amazonaws.com/website38/SmileCapture.JPG)](https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4)
