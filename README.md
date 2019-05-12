@@ -16,3 +16,10 @@ Then run this code in your terminal: #C:/YOUR FOLDER LOCATION/ python smile.py
 
 <video src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" width="1250px"/>
 
+<object width="425" height="350">
+  <param name="movie" value="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://s3-eu-west-1.amazonaws.com/website38/Video+12_05_2019+10_41_09+AM.mp4"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
